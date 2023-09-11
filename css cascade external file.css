@@ -1,11 +1,11 @@
 ### CSS CASCADE EXTERNAL FILE ###
 
 
-#outer-box {
+#outer-box{
   background-color: purple;
 }
 
-.box {
+.box{
   background-color: blue;
   padding: 10px;
 }
@@ -14,7 +14,7 @@
   background-color: red;
 }
 
-p {
+p{
   color: yellow;
   margin: 0;
   padding: 0;
